@@ -1,3 +1,6 @@
+pubic abstract AbstractClassName {
+}
+
 public class ClassName<E> extends AnyClass implements Interface<String> {
   enum Color { RED, GREEN, BLUE};
   static Object staticField;
